@@ -49,4 +49,4 @@ After run you can test APIs on swagger accessing http://localhost:8080/swagger-u
 
 ## Autor
 
-- [@nathterribile]([https://github.com/nathterribile/AssistenciaTecnica-Backend))
+- [@nathterribile](https://github.com/nathterribile/AssistenciaTecnica-Backend)
