@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fiap</groupId>
-	<artifactId>myassist_2546</artifactId>
+	<artifactId>myassist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>myassist_2546</name>
+	<name>myassist</name>
 	<description>Projeto de integração com o FrontEnd</description>
 	<properties>
 		<java.version>17</java.version>
