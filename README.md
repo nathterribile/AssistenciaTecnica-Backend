@@ -36,7 +36,7 @@ Backend automation of an web app for an technical assistance enterprise.
 
 ## Swagger
 
-After run you can test APIs on swagger accessing http://localhost:8080/swagger-ui/index.html#/
+You can test APIs on swagger accessing /swagger-ui/index.html#/
 
 ![img.png](img.png)
 
